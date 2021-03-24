@@ -1,4 +1,5 @@
-from django.urls import pathfrom .views import contatti
+from django.urls import path
+from .views import contatti
 
 app_name = 'forms_app'
 
